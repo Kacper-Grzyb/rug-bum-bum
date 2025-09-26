@@ -1,0 +1,11 @@
+jupyter
+ipython
+numpy
+scipy
+matplotlib
+pandas
+scikit-learn
+
+# pretty_midi # for vector to midi convertion
+# fluidsynth # for midi to audio convertion
+# ffmpeg-python # for ffmpeg format support for submission
