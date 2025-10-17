@@ -8,7 +8,6 @@ Neural networks semester project
 
 Create virtual environment
 
-```sgell
 ```shell
 python -m venv venv
 source venv/bin/activate  # On Windows: venv\Scripts\activate
@@ -19,6 +18,4 @@ Install dependencies
 
 ```shell
 pip install -r requirements.txt
-```
-```
 ```

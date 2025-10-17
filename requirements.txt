@@ -5,7 +5,11 @@ scipy
 matplotlib
 pandas
 scikit-learn
+tqdm
 
-# pretty_midi # for vector to midi convertion
+mido # for midi convertoion 
+pretty_midi # for vector to midi convertion
 # fluidsynth # for midi to audio convertion
+pyfluidsynth
+
 # ffmpeg-python # for ffmpeg format support for submission
